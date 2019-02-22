@@ -12,7 +12,7 @@ You will need a server with PHP 5.3 installed and a web browser that does not ch
 
 Install via composer
 
-    composer install trenker/simple-rsa
+    composer require tornado/simple-rsa
 
 Now you can create a key pair like this:
 
