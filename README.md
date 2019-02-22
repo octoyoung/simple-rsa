@@ -71,3 +71,7 @@ This library includes the following tools:
 * [RSA and ECC in JavaScript](http://www-cs-students.stanford.edu/~tjw/jsbn/) toolset, (c) 2005 by Tom Wu, released under a [BSD license](http://www-cs-students.stanford.edu/~tjw/jsbn/LICENSE)
 * [phpseclib](http://phpseclib.sourceforge.net/) released under a [MIT License](http://www.opensource.org/licenses/mit-license.html)
 
+
+
+-- Created this to maintain the version seperately.. All development credit goes to original developers.
+

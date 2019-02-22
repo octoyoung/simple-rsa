@@ -1,9 +1,14 @@
 {
-	"name": "trenker/simple-rsa",
+	"name": "tornado/simple-rsa",
 	"type": "library",
 	"description": "Easy to use and integrate API for using RSA encrypted values during HTTP communication.",
 	"license": "BSD 3-Clause License",
 	"authors": [
+        {
+			"name": "Vishnu Pradeep",
+			"email": "intermedia.vishnu@gmail.com",
+			"role": "Maintainer"
+		},
 		{
 			"name": "Georg Großberger",
 			"email": "contact@grossberger-ge.org",
